@@ -1,1 +1,3 @@
 # Lab-01
+
+Lab 1 aims to guide students through the installation and setup of essential software tools required for a course. The lab covers various aspects, including installing software tools, practicing using them, working with terminal commands and keyboard shortcuts, and creating a Node.js server-side JavaScript file. The completion of this lab helps students understand the course material, complete lab tasks, and prepare for future projects. The lab requires students to carefully read and follow the instructions, install the specified software tools, and submit the required deliverables as part of Project 1.
